@@ -52,3 +52,8 @@ class Message(models.Model):
 class Testing(models.Model):
     "Generated Model"
     testing = models.BigIntegerField()
+
+
+class Manan(models.Model):
+    "Generated Model"
+    address = models.BigIntegerField()
